@@ -1,3 +1,3 @@
 ﻿# Typing-practise-vs-code
-hello hello hello hello
-hello hello hello hello
+
+#100 Days Coadind Challenge 
